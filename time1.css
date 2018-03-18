@@ -1,0 +1,9 @@
+body{color:white;background-color:#87CEFA;}
+h1{text-align:center;font-style:bold;font-size:60px;font-weight:700;text-shadow:8px 6px 6px red;}
+p.first{text-align:center;font-style:italic;font-size:30px;color:red;}
+p.third{text-align:center;font-size:60px;font-style:bold;font-weight:600;text-shadow:8px 6px 6px red;}
+p.fourth{text-align:center;font-size:30px;font-style:bold;font-weight:500;text-shadow:8px 6px 6px white;color:red}
+p.fifth{font-style:italic;color:red;text-align:center;text-shadow:4px 4px 4px white;font-size:30px;}
+p.sixth{font-style:sans-serif;font-size:20px;text-align:right;color:green;}
+p.seven{text-align:right;text-shadow:5px 4px 3px blue;font-size:40px;font-style:normal;}
+p.eight{text-align:center;text-shadow:5px 4px 3px blue;font-size:40px;background-color:black;color:white;}
